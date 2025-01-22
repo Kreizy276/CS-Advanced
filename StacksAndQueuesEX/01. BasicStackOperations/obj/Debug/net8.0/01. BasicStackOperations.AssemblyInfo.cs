@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01. BasicStackOperations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f474c9795df1f14a2d4d1635f7cce669e1dcd0b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c026fc2829fa9bc780147745b6e5676bdb4f6cd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("01. BasicStackOperations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01. BasicStackOperations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

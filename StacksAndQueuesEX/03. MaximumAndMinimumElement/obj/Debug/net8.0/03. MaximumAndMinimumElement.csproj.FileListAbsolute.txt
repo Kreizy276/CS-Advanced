@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\bin\Debug\net8.0\03. MaximumAndMinimumElement.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\bin\Debug\net8.0\03. MaximumAndMinimumElement.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\bin\Debug\net8.0\03. MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\bin\Debug\net8.0\03. MaximumAndMinimumElement.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\bin\Debug\net8.0\03. MaximumAndMinimumElement.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\obj\Debug\net8.0\03. MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\obj\Debug\net8.0\03. MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\obj\Debug\net8.0\03. MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\obj\Debug\net8.0\03. MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\obj\Debug\net8.0\03. MaximumAndMinimumElement.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\obj\Debug\net8.0\03. MaximumAndMinimumElement.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\obj\Debug\net8.0\refint\03. MaximumAndMinimumElement.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\obj\Debug\net8.0\03. MaximumAndMinimumElement.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\obj\Debug\net8.0\03. MaximumAndMinimumElement.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\03. MaximumAndMinimumElement\obj\Debug\net8.0\ref\03. MaximumAndMinimumElement.dll

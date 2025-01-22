@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{647A120E-B6B5-4E88-A06B-FD60C7909575}|06. SongsQueue\\06. SongsQueue.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\stacksandqueuesex\\06. songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647A120E-B6B5-4E88-A06B-FD60C7909575}|06. SongsQueue\\06. SongsQueue.csproj|solutionrelative:06. songsqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DEA676-C8ED-446F-9F52-1CC43E5738B2}|05. FashionBoutique\\05. FashionBoutique.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\stacksandqueuesex\\05. fashionboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DEA676-C8ED-446F-9F52-1CC43E5738B2}|05. FashionBoutique\\05. FashionBoutique.csproj|solutionrelative:05. fashionboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D48B3A5-37F5-46BE-92C0-9A4FD0FB74C4}|04. FastFood\\04. FastFood.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\stacksandqueuesex\\04. fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D48B3A5-37F5-46BE-92C0-9A4FD0FB74C4}|04. FastFood\\04. FastFood.csproj|solutionrelative:04. fastfood\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19EB931-BE19-468D-9902-23FF4E929C63}|03. MaximumAndMinimumElement\\03. MaximumAndMinimumElement.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\stacksandqueuesex\\03. maximumandminimumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19EB931-BE19-468D-9902-23FF4E929C63}|03. MaximumAndMinimumElement\\03. MaximumAndMinimumElement.csproj|solutionrelative:03. maximumandminimumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6C6063-1AD9-405A-8689-76495DD58F1B}|02. BasicQueueOperations\\02. BasicQueueOperations.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\stacksandqueuesex\\02. basicqueueoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6C6063-1AD9-405A-8689-76495DD58F1B}|02. BasicQueueOperations\\02. BasicQueueOperations.csproj|solutionrelative:02. basicqueueoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E527AF10-F49F-4495-AB59-0BBE6A500C30}|01. BasicStackOperations\\01. BasicStackOperations.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\stacksandqueuesex\\01. basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E527AF10-F49F-4495-AB59-0BBE6A500C30}|01. BasicStackOperations\\01. BasicStackOperations.csproj|solutionrelative:01. basicstackoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +44,76 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\06. SongsQueue\\Program.cs",
+              "RelativeDocumentMoniker": "06. SongsQueue\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\06. SongsQueue\\Program.cs*",
+              "RelativeToolTip": "06. SongsQueue\\Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:37:45.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\05. FashionBoutique\\Program.cs",
+              "RelativeDocumentMoniker": "05. FashionBoutique\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\05. FashionBoutique\\Program.cs",
+              "RelativeToolTip": "05. FashionBoutique\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:04:37.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\04. FastFood\\Program.cs",
+              "RelativeDocumentMoniker": "04. FastFood\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\04. FastFood\\Program.cs",
+              "RelativeToolTip": "04. FastFood\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:07:24.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\03. MaximumAndMinimumElement\\Program.cs",
+              "RelativeDocumentMoniker": "03. MaximumAndMinimumElement\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\03. MaximumAndMinimumElement\\Program.cs",
+              "RelativeToolTip": "03. MaximumAndMinimumElement\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwDkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:56:41.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\02. BasicQueueOperations\\Program.cs",
+              "RelativeDocumentMoniker": "02. BasicQueueOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\02. BasicQueueOperations\\Program.cs",
+              "RelativeToolTip": "02. BasicQueueOperations\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:41:54.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\01. BasicStackOperations\\Program.cs",
               "RelativeDocumentMoniker": "01. BasicStackOperations\\Program.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\01. BasicStackOperations\\Program.cs*",
-              "RelativeToolTip": "01. BasicStackOperations\\Program.cs*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwC8AAAAxAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\01. BasicStackOperations\\Program.cs",
+              "RelativeToolTip": "01. BasicStackOperations\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB4AAADmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T11:50:23.638Z",
               "EditorCaption": ""
