@@ -1,0 +1,14 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\01. BasicStackOperations\bin\Debug\net8.0\01. BasicStackOperations.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\01. BasicStackOperations\bin\Debug\net8.0\01. BasicStackOperations.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\01. BasicStackOperations\bin\Debug\net8.0\01. BasicStackOperations.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\01. BasicStackOperations\bin\Debug\net8.0\01. BasicStackOperations.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\01. BasicStackOperations\bin\Debug\net8.0\01. BasicStackOperations.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\01. BasicStackOperations\obj\Debug\net8.0\01. BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\01. BasicStackOperations\obj\Debug\net8.0\01. BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\01. BasicStackOperations\obj\Debug\net8.0\01. BasicStackOperations.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\01. BasicStackOperations\obj\Debug\net8.0\01. BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\01. BasicStackOperations\obj\Debug\net8.0\01. BasicStackOperations.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\01. BasicStackOperations\obj\Debug\net8.0\refint\01. BasicStackOperations.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\01. BasicStackOperations\obj\Debug\net8.0\01. BasicStackOperations.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\01. BasicStackOperations\obj\Debug\net8.0\01. BasicStackOperations.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\01. BasicStackOperations\obj\Debug\net8.0\ref\01. BasicStackOperations.dll
