@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. SongsQueue", "06. Songs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. TruckTour", "07. TruckTour\07. TruckTour.csproj", "{2B317695-2214-4C7D-8C53-C8626F61F8EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. BalancedParentheses", "08. BalancedParentheses\08. BalancedParentheses.csproj", "{DCC39758-D17C-4A5A-95B6-C15C6A36CC5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. SimpleTextEditor", "09. SimpleTextEditor\09. SimpleTextEditor.csproj", "{7792418D-54D8-422A-88D5-1C6DD37DA9BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{2B317695-2214-4C7D-8C53-C8626F61F8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B317695-2214-4C7D-8C53-C8626F61F8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B317695-2214-4C7D-8C53-C8626F61F8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC39758-D17C-4A5A-95B6-C15C6A36CC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC39758-D17C-4A5A-95B6-C15C6A36CC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC39758-D17C-4A5A-95B6-C15C6A36CC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC39758-D17C-4A5A-95B6-C15C6A36CC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7792418D-54D8-422A-88D5-1C6DD37DA9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7792418D-54D8-422A-88D5-1C6DD37DA9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7792418D-54D8-422A-88D5-1C6DD37DA9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7792418D-54D8-422A-88D5-1C6DD37DA9BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

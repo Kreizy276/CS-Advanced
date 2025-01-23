@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7792418D-54D8-422A-88D5-1C6DD37DA9BE}|09. SimpleTextEditor\\09. SimpleTextEditor.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\stacksandqueuesex\\09. simpletexteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7792418D-54D8-422A-88D5-1C6DD37DA9BE}|09. SimpleTextEditor\\09. SimpleTextEditor.csproj|solutionrelative:09. simpletexteditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC39758-D17C-4A5A-95B6-C15C6A36CC5F}|08. BalancedParentheses\\08. BalancedParentheses.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\stacksandqueuesex\\08. balancedparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC39758-D17C-4A5A-95B6-C15C6A36CC5F}|08. BalancedParentheses\\08. BalancedParentheses.csproj|solutionrelative:08. balancedparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B317695-2214-4C7D-8C53-C8626F61F8EE}|07. TruckTour\\07. TruckTour.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\stacksandqueuesex\\07. trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B317695-2214-4C7D-8C53-C8626F61F8EE}|07. TruckTour\\07. TruckTour.csproj|solutionrelative:07. trucktour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -48,18 +56,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\09. SimpleTextEditor\\Program.cs",
+              "RelativeDocumentMoniker": "09. SimpleTextEditor\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\09. SimpleTextEditor\\Program.cs",
+              "RelativeToolTip": "09. SimpleTextEditor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:27:06.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\08. BalancedParentheses\\Program.cs",
+              "RelativeDocumentMoniker": "08. BalancedParentheses\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\08. BalancedParentheses\\Program.cs",
+              "RelativeToolTip": "08. BalancedParentheses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:24:22.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\07. TruckTour\\Program.cs",
               "RelativeDocumentMoniker": "07. TruckTour\\Program.cs",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\07. TruckTour\\Program.cs",
               "RelativeToolTip": "07. TruckTour\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwC0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T16:15:14.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\06. SongsQueue\\Program.cs",
               "RelativeDocumentMoniker": "06. SongsQueue\\Program.cs",
@@ -67,12 +101,11 @@
               "RelativeToolTip": "06. SongsQueue\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwCQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T15:37:45.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T15:37:45.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\05. FashionBoutique\\Program.cs",
               "RelativeDocumentMoniker": "05. FashionBoutique\\Program.cs",
@@ -80,12 +113,11 @@
               "RelativeToolTip": "05. FashionBoutique\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA1wBUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T15:04:37.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T15:04:37.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\04. FastFood\\Program.cs",
               "RelativeDocumentMoniker": "04. FastFood\\Program.cs",
@@ -93,12 +125,11 @@
               "RelativeToolTip": "04. FastFood\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T14:07:24.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T14:07:24.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\03. MaximumAndMinimumElement\\Program.cs",
               "RelativeDocumentMoniker": "03. MaximumAndMinimumElement\\Program.cs",
@@ -106,12 +137,11 @@
               "RelativeToolTip": "03. MaximumAndMinimumElement\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAQwDkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T12:56:41.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T12:56:41.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\02. BasicQueueOperations\\Program.cs",
               "RelativeDocumentMoniker": "02. BasicQueueOperations\\Program.cs",
@@ -119,12 +149,11 @@
               "RelativeToolTip": "02. BasicQueueOperations\\Program.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwCgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T12:41:54.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T12:41:54.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StacksAndQueuesEX\\01. BasicStackOperations\\Program.cs",
               "RelativeDocumentMoniker": "01. BasicStackOperations\\Program.cs",
@@ -132,8 +161,7 @@
               "RelativeToolTip": "01. BasicStackOperations\\Program.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwB4AAADmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T11:50:23.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T11:50:23.638Z"
             }
           ]
         }

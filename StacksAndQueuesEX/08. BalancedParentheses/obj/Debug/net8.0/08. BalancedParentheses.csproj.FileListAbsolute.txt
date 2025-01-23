@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\bin\Debug\net8.0\08. BalancedParentheses.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\bin\Debug\net8.0\08. BalancedParentheses.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\bin\Debug\net8.0\08. BalancedParentheses.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\bin\Debug\net8.0\08. BalancedParentheses.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\bin\Debug\net8.0\08. BalancedParentheses.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\obj\Debug\net8.0\08. BalancedParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\obj\Debug\net8.0\08. BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\obj\Debug\net8.0\08. BalancedParentheses.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\obj\Debug\net8.0\08. BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\obj\Debug\net8.0\08. BalancedParentheses.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\obj\Debug\net8.0\08. BalancedParentheses.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\obj\Debug\net8.0\refint\08. BalancedParentheses.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\obj\Debug\net8.0\08. BalancedParentheses.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\obj\Debug\net8.0\08. BalancedParentheses.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StacksAndQueuesEX\08. BalancedParentheses\obj\Debug\net8.0\ref\08. BalancedParentheses.dll
