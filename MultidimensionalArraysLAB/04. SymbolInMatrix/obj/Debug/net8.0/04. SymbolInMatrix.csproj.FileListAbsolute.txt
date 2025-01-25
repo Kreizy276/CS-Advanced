@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\bin\Debug\net8.0\04. SymbolInMatrix.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\bin\Debug\net8.0\04. SymbolInMatrix.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\bin\Debug\net8.0\04. SymbolInMatrix.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\bin\Debug\net8.0\04. SymbolInMatrix.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\bin\Debug\net8.0\04. SymbolInMatrix.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\obj\Debug\net8.0\04. SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\obj\Debug\net8.0\04. SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\obj\Debug\net8.0\04. SymbolInMatrix.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\obj\Debug\net8.0\04. SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\obj\Debug\net8.0\04. SymbolInMatrix.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\obj\Debug\net8.0\04. SymbolInMatrix.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\obj\Debug\net8.0\refint\04. SymbolInMatrix.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\obj\Debug\net8.0\04. SymbolInMatrix.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\obj\Debug\net8.0\04. SymbolInMatrix.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\04. SymbolInMatrix\obj\Debug\net8.0\ref\04. SymbolInMatrix.dll

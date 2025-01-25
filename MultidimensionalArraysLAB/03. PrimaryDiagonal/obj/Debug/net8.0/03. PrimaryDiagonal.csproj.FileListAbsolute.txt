@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\bin\Debug\net8.0\03. PrimaryDiagonal.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\bin\Debug\net8.0\03. PrimaryDiagonal.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\bin\Debug\net8.0\03. PrimaryDiagonal.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\bin\Debug\net8.0\03. PrimaryDiagonal.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\bin\Debug\net8.0\03. PrimaryDiagonal.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\obj\Debug\net8.0\03. PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\obj\Debug\net8.0\03. PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\obj\Debug\net8.0\03. PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\obj\Debug\net8.0\03. PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\obj\Debug\net8.0\03. PrimaryDiagonal.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\obj\Debug\net8.0\03. PrimaryDiagonal.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\obj\Debug\net8.0\refint\03. PrimaryDiagonal.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\obj\Debug\net8.0\03. PrimaryDiagonal.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\obj\Debug\net8.0\03. PrimaryDiagonal.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\03. PrimaryDiagonal\obj\Debug\net8.0\ref\03. PrimaryDiagonal.dll

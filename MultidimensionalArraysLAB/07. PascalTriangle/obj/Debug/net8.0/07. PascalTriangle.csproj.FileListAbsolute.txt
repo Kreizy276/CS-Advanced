@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\bin\Debug\net8.0\07. PascalTriangle.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\bin\Debug\net8.0\07. PascalTriangle.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\bin\Debug\net8.0\07. PascalTriangle.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\bin\Debug\net8.0\07. PascalTriangle.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\bin\Debug\net8.0\07. PascalTriangle.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\obj\Debug\net8.0\07. PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\obj\Debug\net8.0\07. PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\obj\Debug\net8.0\07. PascalTriangle.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\obj\Debug\net8.0\07. PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\obj\Debug\net8.0\07. PascalTriangle.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\obj\Debug\net8.0\07. PascalTriangle.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\obj\Debug\net8.0\refint\07. PascalTriangle.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\obj\Debug\net8.0\07. PascalTriangle.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\obj\Debug\net8.0\07. PascalTriangle.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\07. PascalTriangle\obj\Debug\net8.0\ref\07. PascalTriangle.dll

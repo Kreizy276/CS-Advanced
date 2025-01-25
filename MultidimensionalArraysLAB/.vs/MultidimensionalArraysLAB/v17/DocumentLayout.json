@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C804CD-30FF-4A99-A304-53105EB16416}|07. PascalTriangle\\07. PascalTriangle.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\multidimensionalarrayslab\\07. pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C804CD-30FF-4A99-A304-53105EB16416}|07. PascalTriangle\\07. PascalTriangle.csproj|solutionrelative:07. pascaltriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552DA55E-CCEE-43D2-9E4B-3470DA6C243D}|06. Jagged-ArrayModification\\06. Jagged-ArrayModification.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\multidimensionalarrayslab\\06. jagged-arraymodification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552DA55E-CCEE-43D2-9E4B-3470DA6C243D}|06. Jagged-ArrayModification\\06. Jagged-ArrayModification.csproj|solutionrelative:06. jagged-arraymodification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F362D16-C81C-4FEC-8993-4C851F42AF58}|05. SquareWithMaximumSum\\05. SquareWithMaximumSum.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\multidimensionalarrayslab\\05. squarewithmaximumsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F362D16-C81C-4FEC-8993-4C851F42AF58}|05. SquareWithMaximumSum\\05. SquareWithMaximumSum.csproj|solutionrelative:05. squarewithmaximumsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3C0EE6-9D79-49E3-AC38-DD486852E2EB}|04. SymbolInMatrix\\04. SymbolInMatrix.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\multidimensionalarrayslab\\04. symbolinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3C0EE6-9D79-49E3-AC38-DD486852E2EB}|04. SymbolInMatrix\\04. SymbolInMatrix.csproj|solutionrelative:04. symbolinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6779408A-A753-41B9-A69E-821BFB85A870}|03. PrimaryDiagonal\\03. PrimaryDiagonal.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\multidimensionalarrayslab\\03. primarydiagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6779408A-A753-41B9-A69E-821BFB85A870}|03. PrimaryDiagonal\\03. PrimaryDiagonal.csproj|solutionrelative:03. primarydiagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8141433-B9DE-4AA4-A7D4-85AE163181E4}|02. SumMatrixColumns\\02. SumMatrixColumns.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\multidimensionalarrayslab\\02. summatrixcolumns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8141433-B9DE-4AA4-A7D4-85AE163181E4}|02. SumMatrixColumns\\02. SumMatrixColumns.csproj|solutionrelative:02. summatrixcolumns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FC613F-3603-4C40-97F6-C17FB00090F7}|01. SumMatrixElements\\01. SumMatrixElements.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\multidimensionalarrayslab\\01. summatrixelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FC613F-3603-4C40-97F6-C17FB00090F7}|01. SumMatrixElements\\01. SumMatrixElements.csproj|solutionrelative:01. summatrixelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\07. PascalTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "07. PascalTriangle\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\07. PascalTriangle\\Program.cs",
+              "RelativeToolTip": "07. PascalTriangle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:53:54.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\06. Jagged-ArrayModification\\Program.cs",
+              "RelativeDocumentMoniker": "06. Jagged-ArrayModification\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\06. Jagged-ArrayModification\\Program.cs",
+              "RelativeToolTip": "06. Jagged-ArrayModification\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T15:00:14.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\05. SquareWithMaximumSum\\Program.cs",
+              "RelativeDocumentMoniker": "05. SquareWithMaximumSum\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\05. SquareWithMaximumSum\\Program.cs",
+              "RelativeToolTip": "05. SquareWithMaximumSum\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:21:06.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\04. SymbolInMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "04. SymbolInMatrix\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\04. SymbolInMatrix\\Program.cs",
+              "RelativeToolTip": "04. SymbolInMatrix\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T14:00:08.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\03. PrimaryDiagonal\\Program.cs",
+              "RelativeDocumentMoniker": "03. PrimaryDiagonal\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\03. PrimaryDiagonal\\Program.cs",
+              "RelativeToolTip": "03. PrimaryDiagonal\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:54:12.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\02. SumMatrixColumns\\Program.cs",
+              "RelativeDocumentMoniker": "02. SumMatrixColumns\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\02. SumMatrixColumns\\Program.cs",
+              "RelativeToolTip": "02. SumMatrixColumns\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:27:18.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\01. SumMatrixElements\\Program.cs",
+              "RelativeDocumentMoniker": "01. SumMatrixElements\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\01. SumMatrixElements\\Program.cs",
+              "RelativeToolTip": "01. SumMatrixElements\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:09:50.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

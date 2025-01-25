@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\bin\Debug\net8.0\01. SumMatrixElements.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\bin\Debug\net8.0\01. SumMatrixElements.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\bin\Debug\net8.0\01. SumMatrixElements.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\bin\Debug\net8.0\01. SumMatrixElements.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\bin\Debug\net8.0\01. SumMatrixElements.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\obj\Debug\net8.0\01. SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\obj\Debug\net8.0\01. SumMatrixElements.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\obj\Debug\net8.0\01. SumMatrixElements.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\obj\Debug\net8.0\01. SumMatrixElements.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\obj\Debug\net8.0\01. SumMatrixElements.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\obj\Debug\net8.0\01. SumMatrixElements.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\obj\Debug\net8.0\refint\01. SumMatrixElements.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\obj\Debug\net8.0\01. SumMatrixElements.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\obj\Debug\net8.0\01. SumMatrixElements.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\01. SumMatrixElements\obj\Debug\net8.0\ref\01. SumMatrixElements.dll

@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\bin\Debug\net8.0\05. SquareWithMaximumSum.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\bin\Debug\net8.0\05. SquareWithMaximumSum.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\bin\Debug\net8.0\05. SquareWithMaximumSum.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\bin\Debug\net8.0\05. SquareWithMaximumSum.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\bin\Debug\net8.0\05. SquareWithMaximumSum.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\obj\Debug\net8.0\05. SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\obj\Debug\net8.0\05. SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\obj\Debug\net8.0\05. SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\obj\Debug\net8.0\05. SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\obj\Debug\net8.0\05. SquareWithMaximumSum.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\obj\Debug\net8.0\05. SquareWithMaximumSum.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\obj\Debug\net8.0\refint\05. SquareWithMaximumSum.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\obj\Debug\net8.0\05. SquareWithMaximumSum.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\obj\Debug\net8.0\05. SquareWithMaximumSum.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\05. SquareWithMaximumSum\obj\Debug\net8.0\ref\05. SquareWithMaximumSum.dll

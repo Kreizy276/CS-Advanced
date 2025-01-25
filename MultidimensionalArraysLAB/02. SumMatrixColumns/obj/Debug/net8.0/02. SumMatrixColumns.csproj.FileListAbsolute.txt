@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\bin\Debug\net8.0\02. SumMatrixColumns.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\bin\Debug\net8.0\02. SumMatrixColumns.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\bin\Debug\net8.0\02. SumMatrixColumns.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\bin\Debug\net8.0\02. SumMatrixColumns.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\bin\Debug\net8.0\02. SumMatrixColumns.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\obj\Debug\net8.0\02. SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\obj\Debug\net8.0\02. SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\obj\Debug\net8.0\02. SumMatrixColumns.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\obj\Debug\net8.0\02. SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\obj\Debug\net8.0\02. SumMatrixColumns.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\obj\Debug\net8.0\02. SumMatrixColumns.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\obj\Debug\net8.0\refint\02. SumMatrixColumns.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\obj\Debug\net8.0\02. SumMatrixColumns.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\obj\Debug\net8.0\02. SumMatrixColumns.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysLAB\02. SumMatrixColumns\obj\Debug\net8.0\ref\02. SumMatrixColumns.dll
