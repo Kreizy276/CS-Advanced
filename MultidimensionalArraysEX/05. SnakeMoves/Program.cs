@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _07._PascalTriangle
+namespace _05._SnakeMoves
 {
     internal class Program
     {

@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\bin\Debug\net8.0\03. MaximalSum.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\bin\Debug\net8.0\03. MaximalSum.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\bin\Debug\net8.0\03. MaximalSum.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\bin\Debug\net8.0\03. MaximalSum.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\bin\Debug\net8.0\03. MaximalSum.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\obj\Debug\net8.0\03. MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\obj\Debug\net8.0\03. MaximalSum.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\obj\Debug\net8.0\03. MaximalSum.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\obj\Debug\net8.0\03. MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\obj\Debug\net8.0\03. MaximalSum.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\obj\Debug\net8.0\03. MaximalSum.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\obj\Debug\net8.0\refint\03. MaximalSum.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\obj\Debug\net8.0\03. MaximalSum.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\obj\Debug\net8.0\03. MaximalSum.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\03. MaximalSum\obj\Debug\net8.0\ref\03. MaximalSum.dll

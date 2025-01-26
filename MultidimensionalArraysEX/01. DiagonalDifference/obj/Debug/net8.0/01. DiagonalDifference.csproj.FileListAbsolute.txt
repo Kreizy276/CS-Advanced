@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\bin\Debug\net8.0\01. DiagonalDifference.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\bin\Debug\net8.0\01. DiagonalDifference.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\bin\Debug\net8.0\01. DiagonalDifference.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\bin\Debug\net8.0\01. DiagonalDifference.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\bin\Debug\net8.0\01. DiagonalDifference.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\obj\Debug\net8.0\01. DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\obj\Debug\net8.0\01. DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\obj\Debug\net8.0\01. DiagonalDifference.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\obj\Debug\net8.0\01. DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\obj\Debug\net8.0\01. DiagonalDifference.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\obj\Debug\net8.0\01. DiagonalDifference.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\obj\Debug\net8.0\refint\01. DiagonalDifference.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\obj\Debug\net8.0\01. DiagonalDifference.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\obj\Debug\net8.0\01. DiagonalDifference.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\01. DiagonalDifference\obj\Debug\net8.0\ref\01. DiagonalDifference.dll

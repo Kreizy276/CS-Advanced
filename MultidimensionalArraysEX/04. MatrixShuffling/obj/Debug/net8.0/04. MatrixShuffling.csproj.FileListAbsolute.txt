@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\bin\Debug\net8.0\04. MatrixShuffling.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\bin\Debug\net8.0\04. MatrixShuffling.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\bin\Debug\net8.0\04. MatrixShuffling.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\bin\Debug\net8.0\04. MatrixShuffling.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\bin\Debug\net8.0\04. MatrixShuffling.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\obj\Debug\net8.0\04. MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\obj\Debug\net8.0\04. MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\obj\Debug\net8.0\04. MatrixShuffling.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\obj\Debug\net8.0\04. MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\obj\Debug\net8.0\04. MatrixShuffling.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\obj\Debug\net8.0\04. MatrixShuffling.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\obj\Debug\net8.0\refint\04. MatrixShuffling.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\obj\Debug\net8.0\04. MatrixShuffling.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\obj\Debug\net8.0\04. MatrixShuffling.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\04. MatrixShuffling\obj\Debug\net8.0\ref\04. MatrixShuffling.dll

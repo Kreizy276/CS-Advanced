@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "07. PascalTriangle\\Program.cs",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysLAB\\07. PascalTriangle\\Program.cs",
               "RelativeToolTip": "07. PascalTriangle\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T15:53:54.203Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "06. Jagged-ArrayModification\\Program.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T15:00:14.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T15:00:14.646Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "05. SquareWithMaximumSum\\Program.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAQwDIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T14:21:06.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T14:21:06.945Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "04. SymbolInMatrix\\Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAgwCUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T14:00:08.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T14:00:08.08Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "03. PrimaryDiagonal\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T13:54:12.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T13:54:12.948Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "02. SumMatrixColumns\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAgwBcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T13:27:18.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T13:27:18.227Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "01. SumMatrixElements\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T13:09:50.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T13:09:50.828Z"
             }
           ]
         }

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysEX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BDCAE69-1730-4EEF-A8D1-BA4BBDFAD44D}|05. SnakeMoves\\05. SnakeMoves.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\multidimensionalarraysex\\05. snakemoves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BDCAE69-1730-4EEF-A8D1-BA4BBDFAD44D}|05. SnakeMoves\\05. SnakeMoves.csproj|solutionrelative:05. snakemoves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF15367-33CA-43E9-9DB0-5ABE768F21F1}|04. MatrixShuffling\\04. MatrixShuffling.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\multidimensionalarraysex\\04. matrixshuffling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF15367-33CA-43E9-9DB0-5ABE768F21F1}|04. MatrixShuffling\\04. MatrixShuffling.csproj|solutionrelative:04. matrixshuffling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05762800-A3F0-4543-BD3A-4412CFB3CBEB}|03. MaximalSum\\03. MaximalSum.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\multidimensionalarraysex\\03. maximalsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05762800-A3F0-4543-BD3A-4412CFB3CBEB}|03. MaximalSum\\03. MaximalSum.csproj|solutionrelative:03. maximalsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FBF32A-71DD-41D4-80E3-BDD842D84F38}|02. SquaresInMatrix\\02. SquaresInMatrix.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\multidimensionalarraysex\\02. squaresinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FBF32A-71DD-41D4-80E3-BDD842D84F38}|02. SquaresInMatrix\\02. SquaresInMatrix.csproj|solutionrelative:02. squaresinmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AE4B0C-32ED-4711-A02E-521340BFE41C}|01. DiagonalDifference\\01. DiagonalDifference.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\multidimensionalarraysex\\01. diagonaldifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AE4B0C-32ED-4711-A02E-521340BFE41C}|01. DiagonalDifference\\01. DiagonalDifference.csproj|solutionrelative:01. diagonaldifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FBF32A-71DD-41D4-80E3-BDD842D84F38}|02. SquaresInMatrix\\02. SquaresInMatrix.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\multidimensionalarraysex\\02. squaresinmatrix\\02. squaresinmatrix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88FBF32A-71DD-41D4-80E3-BDD842D84F38}|02. SquaresInMatrix\\02. SquaresInMatrix.csproj|solutionrelative:02. squaresinmatrix\\02. squaresinmatrix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysEX\\05. SnakeMoves\\Program.cs",
+              "RelativeDocumentMoniker": "05. SnakeMoves\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysEX\\05. SnakeMoves\\Program.cs",
+              "RelativeToolTip": "05. SnakeMoves\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:50:47.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysEX\\04. MatrixShuffling\\Program.cs",
+              "RelativeDocumentMoniker": "04. MatrixShuffling\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysEX\\04. MatrixShuffling\\Program.cs",
+              "RelativeToolTip": "04. MatrixShuffling\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:33:15.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysEX\\03. MaximalSum\\Program.cs",
+              "RelativeDocumentMoniker": "03. MaximalSum\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysEX\\03. MaximalSum\\Program.cs",
+              "RelativeToolTip": "03. MaximalSum\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:51:29.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "02. SquaresInMatrix",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysEX\\02. SquaresInMatrix\\02. SquaresInMatrix.csproj",
+              "RelativeDocumentMoniker": "02. SquaresInMatrix\\02. SquaresInMatrix.csproj",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysEX\\02. SquaresInMatrix\\02. SquaresInMatrix.csproj",
+              "RelativeToolTip": "02. SquaresInMatrix\\02. SquaresInMatrix.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T15:17:36.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysEX\\02. SquaresInMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "02. SquaresInMatrix\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysEX\\02. SquaresInMatrix\\Program.cs",
+              "RelativeToolTip": "02. SquaresInMatrix\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T15:16:25.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysEX\\01. DiagonalDifference\\Program.cs",
+              "RelativeDocumentMoniker": "01. DiagonalDifference\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\MultidimensionalArraysEX\\01. DiagonalDifference\\Program.cs",
+              "RelativeToolTip": "01. DiagonalDifference\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T14:38:40.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
