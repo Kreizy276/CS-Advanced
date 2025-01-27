@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\bin\Debug\net8.0\07. KnightGame.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\bin\Debug\net8.0\07. KnightGame.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\bin\Debug\net8.0\07. KnightGame.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\bin\Debug\net8.0\07. KnightGame.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\bin\Debug\net8.0\07. KnightGame.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\obj\Debug\net8.0\07. KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\obj\Debug\net8.0\07. KnightGame.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\obj\Debug\net8.0\07. KnightGame.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\obj\Debug\net8.0\07. KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\obj\Debug\net8.0\07. KnightGame.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\obj\Debug\net8.0\07. KnightGame.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\obj\Debug\net8.0\refint\07. KnightGame.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\obj\Debug\net8.0\07. KnightGame.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\obj\Debug\net8.0\07. KnightGame.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\07. KnightGame\obj\Debug\net8.0\ref\07. KnightGame.dll

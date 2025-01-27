@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\bin\Debug\net8.0\06. JaggedArrayManipulator.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\bin\Debug\net8.0\06. JaggedArrayManipulator.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\bin\Debug\net8.0\06. JaggedArrayManipulator.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\bin\Debug\net8.0\06. JaggedArrayManipulator.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\bin\Debug\net8.0\06. JaggedArrayManipulator.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\obj\Debug\net8.0\06. JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\obj\Debug\net8.0\06. JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\obj\Debug\net8.0\06. JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\obj\Debug\net8.0\06. JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\obj\Debug\net8.0\06. JaggedArrayManipulator.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\obj\Debug\net8.0\06. JaggedArrayManipulator.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\obj\Debug\net8.0\refint\06. JaggedArrayManipulator.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\obj\Debug\net8.0\06. JaggedArrayManipulator.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\obj\Debug\net8.0\06. JaggedArrayManipulator.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\MultidimensionalArraysEX\06. JaggedArrayManipulator\obj\Debug\net8.0\ref\06. JaggedArrayManipulator.dll
