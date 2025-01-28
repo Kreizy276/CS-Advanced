@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\bin\Debug\net6.0\03. WordCount.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\bin\Debug\net6.0\03. WordCount.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\bin\Debug\net6.0\03. WordCount.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\bin\Debug\net6.0\03. WordCount.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\bin\Debug\net6.0\03. WordCount.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\obj\Debug\net6.0\03. WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\obj\Debug\net6.0\03. WordCount.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\obj\Debug\net6.0\03. WordCount.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\obj\Debug\net6.0\03. WordCount.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\obj\Debug\net6.0\03. WordCount.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\obj\Debug\net6.0\03. WordCount.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\obj\Debug\net6.0\refint\03. WordCount.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\obj\Debug\net6.0\03. WordCount.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\obj\Debug\net6.0\03. WordCount.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\WordCount\obj\Debug\net6.0\ref\03. WordCount.dll
