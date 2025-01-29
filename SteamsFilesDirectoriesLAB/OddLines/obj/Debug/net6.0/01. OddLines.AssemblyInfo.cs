@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01. OddLines")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dce4aa5df2bd6ad1f94fda67fb483b742aa965c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cdc576fa6c83e76db668418aaf5da01e427bc5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("01. OddLines")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01. OddLines")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

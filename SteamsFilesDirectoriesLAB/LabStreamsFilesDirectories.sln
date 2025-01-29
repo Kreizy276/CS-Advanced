@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. WordCount", "WordCount\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. MergeFiles", "MergeFiles\04. MergeFiles.csproj", "{727FBA8B-CA5F-417B-89AF-51607823D4CF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FolderSize", "FolderSize\FolderSize.csproj", "{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. FolderSize", "FolderSize\07. FolderSize.csproj", "{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SplitMergeBinaryFile", "SplitMergeBinaryFile\SplitMergeBinaryFile.csproj", "{519061BD-4626-4435-BC4D-591E946D20CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. SplitMergeBinaryFile", "SplitMergeBinaryFile\06. SplitMergeBinaryFile.csproj", "{519061BD-4626-4435-BC4D-591E946D20CE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. ExtractSpecialBytes", "ExtractSpecialBytes\05. ExtractSpecialBytes.csproj", "{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}"
 EndProject

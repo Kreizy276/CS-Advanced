@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\bin\Debug\net6.0\06. SplitMergeBinaryFile.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\bin\Debug\net6.0\06. SplitMergeBinaryFile.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\bin\Debug\net6.0\06. SplitMergeBinaryFile.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\bin\Debug\net6.0\06. SplitMergeBinaryFile.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\bin\Debug\net6.0\06. SplitMergeBinaryFile.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\obj\Debug\net6.0\06. SplitMergeBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\obj\Debug\net6.0\06. SplitMergeBinaryFile.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\obj\Debug\net6.0\06. SplitMergeBinaryFile.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\obj\Debug\net6.0\06. SplitMergeBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\obj\Debug\net6.0\06. SplitMergeBinaryFile.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\obj\Debug\net6.0\06. SplitMergeBinaryFile.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\obj\Debug\net6.0\refint\06. SplitMergeBinaryFile.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\obj\Debug\net6.0\06. SplitMergeBinaryFile.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\obj\Debug\net6.0\06. SplitMergeBinaryFile.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\SteamsFilesDirectoriesLAB\SplitMergeBinaryFile\obj\Debug\net6.0\ref\06. SplitMergeBinaryFile.dll

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\07. FolderSize.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\steamsfilesdirectorieslab\\foldersize\\foldersize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\07. FolderSize.csproj|solutionrelative:foldersize\\foldersize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519061BD-4626-4435-BC4D-591E946D20CE}|SplitMergeBinaryFile\\06. SplitMergeBinaryFile.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\steamsfilesdirectorieslab\\splitmergebinaryfile\\splitmergebinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519061BD-4626-4435-BC4D-591E946D20CE}|SplitMergeBinaryFile\\06. SplitMergeBinaryFile.csproj|solutionrelative:splitmergebinaryfile\\splitmergebinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\05. ExtractSpecialBytes.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\steamsfilesdirectorieslab\\extractspecialbytes\\extractspecialbytes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBB51A9-D42C-4229-B6A8-5737D0FC230F}|ExtractSpecialBytes\\05. ExtractSpecialBytes.csproj|solutionrelative:extractspecialbytes\\extractspecialbytes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\04. MergeFiles.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\steamsfilesdirectorieslab\\mergefiles\\mergefiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\04. MergeFiles.csproj|solutionrelative:mergefiles\\mergefiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,8 +27,8 @@
       "RelativeMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\02. LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\steamsfilesdirectorieslab\\oddlines\\oddlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|solutionrelative:oddlines\\oddlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\01. OddLines.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\steamsfilesdirectorieslab\\oddlines\\oddlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\01. OddLines.csproj|solutionrelative:oddlines\\oddlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +38,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FolderSize.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\FolderSize\\FolderSize.cs",
+              "RelativeDocumentMoniker": "FolderSize\\FolderSize.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\FolderSize\\FolderSize.cs*",
+              "RelativeToolTip": "FolderSize\\FolderSize.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:10:04.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SplitMergeBinaryFile.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
+              "RelativeDocumentMoniker": "SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
+              "RelativeToolTip": "SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:58:55.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtractSpecialBytes.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\ExtractSpecialBytes\\ExtractSpecialBytes.cs",
+              "RelativeDocumentMoniker": "ExtractSpecialBytes\\ExtractSpecialBytes.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\ExtractSpecialBytes\\ExtractSpecialBytes.cs",
+              "RelativeToolTip": "ExtractSpecialBytes\\ExtractSpecialBytes.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:41:25.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MergeFiles.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\MergeFiles\\MergeFiles.cs",
               "RelativeDocumentMoniker": "MergeFiles\\MergeFiles.cs",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\MergeFiles\\MergeFiles.cs",
               "RelativeToolTip": "MergeFiles\\MergeFiles.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T18:31:55.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "WordCount.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\WordCount\\WordCount.cs",
               "RelativeDocumentMoniker": "WordCount\\WordCount.cs",
@@ -55,12 +110,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "LineNumbers.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\LineNumbers\\LineNumbers.cs",
               "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.cs",
@@ -73,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "OddLines.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\OddLines\\OddLines.cs",
               "RelativeDocumentMoniker": "OddLines\\OddLines.cs",

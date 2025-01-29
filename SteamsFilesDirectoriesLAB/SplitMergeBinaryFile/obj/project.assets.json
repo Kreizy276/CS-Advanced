@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
-      "projectName": "SplitMergeBinaryFile",
-      "projectPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+      "projectUniqueName": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\SplitMergeBinaryFile\\06. SplitMergeBinaryFile.csproj",
+      "projectName": "06. SplitMergeBinaryFile",
+      "projectPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\SplitMergeBinaryFile\\06. SplitMergeBinaryFile.csproj",
       "packagesPath": "C:\\Users\\krisb\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\SplitMergeBinaryFile\\obj\\",
       "projectStyle": "PackageReference",

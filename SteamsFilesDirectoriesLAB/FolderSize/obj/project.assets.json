@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\FolderSize\\FolderSize.csproj",
-      "projectName": "FolderSize",
-      "projectPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\FolderSize\\FolderSize.csproj",
+      "projectUniqueName": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\FolderSize\\07. FolderSize.csproj",
+      "projectName": "07. FolderSize",
+      "projectPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\FolderSize\\07. FolderSize.csproj",
       "packagesPath": "C:\\Users\\krisb\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\FolderSize\\obj\\",
       "projectStyle": "PackageReference",
