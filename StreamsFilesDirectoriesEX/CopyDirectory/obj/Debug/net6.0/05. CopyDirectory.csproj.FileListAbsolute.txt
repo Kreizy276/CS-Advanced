@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\bin\Debug\net6.0\05. CopyDirectory.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\bin\Debug\net6.0\05. CopyDirectory.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\bin\Debug\net6.0\05. CopyDirectory.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\bin\Debug\net6.0\05. CopyDirectory.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\bin\Debug\net6.0\05. CopyDirectory.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\obj\Debug\net6.0\05. CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\obj\Debug\net6.0\05. CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\obj\Debug\net6.0\05. CopyDirectory.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\obj\Debug\net6.0\05. CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\obj\Debug\net6.0\05. CopyDirectory.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\obj\Debug\net6.0\05. CopyDirectory.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\obj\Debug\net6.0\refint\05. CopyDirectory.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\obj\Debug\net6.0\05. CopyDirectory.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\obj\Debug\net6.0\05. CopyDirectory.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyDirectory\obj\Debug\net6.0\ref\05. CopyDirectory.dll

@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\bin\Debug\net6.0\03. CopyBinaryFile.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\bin\Debug\net6.0\03. CopyBinaryFile.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\bin\Debug\net6.0\03. CopyBinaryFile.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\bin\Debug\net6.0\03. CopyBinaryFile.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\bin\Debug\net6.0\03. CopyBinaryFile.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\obj\Debug\net6.0\03. CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\obj\Debug\net6.0\03. CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\obj\Debug\net6.0\03. CopyBinaryFile.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\obj\Debug\net6.0\03. CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\obj\Debug\net6.0\03. CopyBinaryFile.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\obj\Debug\net6.0\03. CopyBinaryFile.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\obj\Debug\net6.0\refint\03. CopyBinaryFile.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\obj\Debug\net6.0\03. CopyBinaryFile.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\obj\Debug\net6.0\03. CopyBinaryFile.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\CopyBinaryFile\obj\Debug\net6.0\ref\03. CopyBinaryFile.dll

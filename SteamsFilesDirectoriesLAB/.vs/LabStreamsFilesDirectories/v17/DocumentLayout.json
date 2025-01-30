@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\03. WordCount.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\steamsfilesdirectorieslab\\wordcount\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\03. WordCount.csproj|solutionrelative:wordcount\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\07. FolderSize.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\steamsfilesdirectorieslab\\foldersize\\foldersize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78CDCAE0-ADD2-487E-98D6-ED4A938F961F}|FolderSize\\07. FolderSize.csproj|solutionrelative:foldersize\\foldersize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\04. MergeFiles.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\steamsfilesdirectorieslab\\mergefiles\\mergefiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{727FBA8B-CA5F-417B-89AF-51607823D4CF}|MergeFiles\\04. MergeFiles.csproj|solutionrelative:mergefiles\\mergefiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\03. WordCount.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\steamsfilesdirectorieslab\\wordcount\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FC6BE6C-C6DD-4ECF-836A-5FE88F55F978}|WordCount\\03. WordCount.csproj|solutionrelative:wordcount\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\02. LineNumbers.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\steamsfilesdirectorieslab\\linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FolderSize.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\FolderSize\\FolderSize.cs",
               "RelativeDocumentMoniker": "FolderSize\\FolderSize.cs",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\FolderSize\\FolderSize.cs",
               "RelativeToolTip": "FolderSize\\FolderSize.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA4wCEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-29T13:10:04.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SplitMergeBinaryFile.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
               "RelativeDocumentMoniker": "SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
@@ -67,12 +67,11 @@
               "RelativeToolTip": "SplitMergeBinaryFile\\SplitMergeBinaryFile.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAwwEAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T11:58:55.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T11:58:55.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ExtractSpecialBytes.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\ExtractSpecialBytes\\ExtractSpecialBytes.cs",
               "RelativeDocumentMoniker": "ExtractSpecialBytes\\ExtractSpecialBytes.cs",
@@ -80,12 +79,11 @@
               "RelativeToolTip": "ExtractSpecialBytes\\ExtractSpecialBytes.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAmwCsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T18:41:25.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T18:41:25.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MergeFiles.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\MergeFiles\\MergeFiles.cs",
               "RelativeDocumentMoniker": "MergeFiles\\MergeFiles.cs",
@@ -93,18 +91,17 @@
               "RelativeToolTip": "MergeFiles\\MergeFiles.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAcwBkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T18:31:55.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T18:31:55.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "WordCount.cs",
               "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\WordCount\\WordCount.cs",
               "RelativeDocumentMoniker": "WordCount\\WordCount.cs",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\SteamsFilesDirectoriesLAB\\WordCount\\WordCount.cs",
               "RelativeToolTip": "WordCount\\WordCount.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwBsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T17:20:40.934Z",
               "EditorCaption": ""
@@ -119,8 +116,7 @@
               "RelativeToolTip": "LineNumbers\\LineNumbers.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAcwA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:48:38.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T16:48:38.834Z"
             },
             {
               "$type": "Document",
@@ -132,8 +128,7 @@
               "RelativeToolTip": "OddLines\\OddLines.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:38:51.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T16:38:51.088Z"
             }
           ]
         }

@@ -1,27 +1,68 @@
-﻿namespace DirectoryTraversal
+﻿namespace DirectoryTraversal;
+
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+
+public class DirectoryTraversal
 {
-    using System;
-    public class DirectoryTraversal
+    static void Main()
     {
-        static void Main()
+        string path = Console.ReadLine();
+        string reportFileName = @"report.txt";
+
+        string reportContent = TraverseDirectory(path);
+        Console.WriteLine(reportContent);
+
+        WriteReportToDesktop(reportContent, reportFileName);
+    }
+
+    public static string TraverseDirectory(string inputFolderPath)
+    {
+        // dictionary to sort by extensions and a list of files
+        Dictionary<string, List<FileInfo>> filesByExtension = new();
+
+        StringBuilder result = new();
+
+        // going through every file from the input folder and adding it to the dictionary
+        foreach(string file in Directory.GetFiles(inputFolderPath))
         {
-            string path = Console.ReadLine();
-            string reportFileName = @"\report.txt";
+            FileInfo info = new FileInfo(file);
 
-            string reportContent = TraverseDirectory(path);
-            Console.WriteLine(reportContent);
+            if (!filesByExtension.ContainsKey(info.Extension)) 
+                filesByExtension[info.Extension] = new List<FileInfo>();
 
-            WriteReportToDesktop(reportContent, reportFileName);
+            filesByExtension[info.Extension].Add(info);
         }
 
-        public static string TraverseDirectory(string inputFolderPath)
+        // sorting the dictionary by how many files it has and then by the extensions
+        foreach (var (extension, file) in filesByExtension.OrderByDescending(x => x.Value.Count).ThenBy(x => x.Key))
         {
-            throw new NotImplementedException();
+            result.AppendLine(extension);
+
+            foreach(FileInfo info in filesByExtension[extension].OrderBy(f => f.Length)) 
+            {
+                result.AppendLine($"-- {info.Name} {info.Length / 1024m} kb");
+            }
         }
 
-        public static void WriteReportToDesktop(string textContent, string reportFileName)
+        return result.ToString();
+    }
+
+    public static void WriteReportToDesktop(string textContent, string reportFileName)
+    {
+        string pathToDesktop = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+        string outputPath = Path.Combine(pathToDesktop, reportFileName);
+
+        try
         {
-            throw new NotImplementedException();
+            File.WriteAllText(outputPath, textContent);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine("An error occurred: " + ex.Message);
         }
     }
 }

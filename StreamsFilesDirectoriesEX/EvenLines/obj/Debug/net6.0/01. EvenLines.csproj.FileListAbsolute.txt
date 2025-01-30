@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\bin\Debug\net6.0\01. EvenLines.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\bin\Debug\net6.0\01. EvenLines.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\bin\Debug\net6.0\01. EvenLines.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\bin\Debug\net6.0\01. EvenLines.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\bin\Debug\net6.0\01. EvenLines.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\obj\Debug\net6.0\01. EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\obj\Debug\net6.0\01. EvenLines.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\obj\Debug\net6.0\01. EvenLines.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\obj\Debug\net6.0\01. EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\obj\Debug\net6.0\01. EvenLines.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\obj\Debug\net6.0\01. EvenLines.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\obj\Debug\net6.0\refint\01. EvenLines.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\obj\Debug\net6.0\01. EvenLines.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\obj\Debug\net6.0\01. EvenLines.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\EvenLines\obj\Debug\net6.0\ref\01. EvenLines.dll

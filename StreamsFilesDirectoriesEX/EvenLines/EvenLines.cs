@@ -1,18 +1,48 @@
-﻿namespace EvenLines
+﻿namespace EvenLines;
+
+using System;
+using System.IO;
+using System.Linq;
+
+public class EvenLines
 {
-    using System;
-    public class EvenLines
+    static void Main()
     {
-        static void Main()
-        {
-            string inputFilePath = @"..\..\..\text.txt";
+        string inputFilePath = @"..\..\..\text.txt";
 
-            Console.WriteLine(ProcessLines(inputFilePath));
+        Console.WriteLine(ProcessLines(inputFilePath));
+    }
+
+    public static string ProcessLines(string inputFilePath)
+    {
+        using (StreamReader inputReader = new StreamReader(inputFilePath))
+        {
+            int count = 0;
+
+            while (!inputReader.EndOfStream)
+            {
+                string line = inputReader.ReadLine();
+                if (count % 2 == 0)
+                {
+                    string[] words = ReplacedString(line).Split();
+                    Array.Reverse(words);
+                    Console.WriteLine(string.Join(' ', words));
+                }
+                count++;
+            }
         }
 
-        public static string ProcessLines(string inputFilePath)
+        return "";
+    }
+
+    static string ReplacedString(string line)
+    {
+        char[] symbols = new char[] { '-', ',', '.', '!', '?' };
+        foreach(char c in symbols)
         {
-            throw new NotImplementedException();
+            line = line.Replace(c, '@');
         }
+
+        return line;
     }
 }

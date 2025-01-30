@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StreamsFilesDirectoriesEX\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\06. ZipAndExtract.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\streamsfilesdirectoriesex\\zipandextract\\zipandextract .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FD4DAE-85D2-4FA9-9C18-70C69E55A5D1}|ZipAndExtract\\06. ZipAndExtract.csproj|solutionrelative:zipandextract\\zipandextract .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3564004F-29BB-4F4B-8E46-126FEB938E2D}|CopyDirectory\\05. CopyDirectory.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\streamsfilesdirectoriesex\\copydirectory\\copydirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3564004F-29BB-4F4B-8E46-126FEB938E2D}|CopyDirectory\\05. CopyDirectory.csproj|solutionrelative:copydirectory\\copydirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\04. DirectoryTraversal.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\streamsfilesdirectoriesex\\directorytraversal\\directorytraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38DC2DB-C03C-497A-BD3E-C2C9934A0832}|DirectoryTraversal\\04. DirectoryTraversal.csproj|solutionrelative:directorytraversal\\directorytraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\03. CopyBinaryFile.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\streamsfilesdirectoriesex\\copybinaryfile\\copybinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE12AA4C-3DC6-4FE3-9E3B-6DCB22ECFE07}|CopyBinaryFile\\03. CopyBinaryFile.csproj|solutionrelative:copybinaryfile\\copybinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\02. LineNumbers.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\streamsfilesdirectoriesex\\linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76AA97B7-6FB6-4DAB-8CCE-A4BF39A6AFEB}|LineNumbers\\02. LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771B504C-43FE-4128-ADA3-1E39462D9DE1}|EvenLines\\01. EvenLines.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\streamsfilesdirectoriesex\\evenlines\\evenlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771B504C-43FE-4128-ADA3-1E39462D9DE1}|EvenLines\\01. EvenLines.csproj|solutionrelative:evenlines\\evenlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZipAndExtract .cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StreamsFilesDirectoriesEX\\ZipAndExtract\\ZipAndExtract .cs",
+              "RelativeDocumentMoniker": "ZipAndExtract\\ZipAndExtract .cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StreamsFilesDirectoriesEX\\ZipAndExtract\\ZipAndExtract .cs",
+              "RelativeToolTip": "ZipAndExtract\\ZipAndExtract .cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:12:55.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CopyDirectory.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StreamsFilesDirectoriesEX\\CopyDirectory\\CopyDirectory.cs",
+              "RelativeDocumentMoniker": "CopyDirectory\\CopyDirectory.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StreamsFilesDirectoriesEX\\CopyDirectory\\CopyDirectory.cs",
+              "RelativeToolTip": "CopyDirectory\\CopyDirectory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:31:05.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DirectoryTraversal.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StreamsFilesDirectoriesEX\\DirectoryTraversal\\DirectoryTraversal.cs",
+              "RelativeDocumentMoniker": "DirectoryTraversal\\DirectoryTraversal.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StreamsFilesDirectoriesEX\\DirectoryTraversal\\DirectoryTraversal.cs",
+              "RelativeToolTip": "DirectoryTraversal\\DirectoryTraversal.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwDIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:37:21.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CopyBinaryFile.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StreamsFilesDirectoriesEX\\CopyBinaryFile\\CopyBinaryFile.cs",
+              "RelativeDocumentMoniker": "CopyBinaryFile\\CopyBinaryFile.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StreamsFilesDirectoriesEX\\CopyBinaryFile\\CopyBinaryFile.cs",
+              "RelativeToolTip": "CopyBinaryFile\\CopyBinaryFile.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:28:15.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LineNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StreamsFilesDirectoriesEX\\LineNumbers\\LineNumbers.cs",
+              "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StreamsFilesDirectoriesEX\\LineNumbers\\LineNumbers.cs",
+              "RelativeToolTip": "LineNumbers\\LineNumbers.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwC8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:54:39.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EvenLines.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StreamsFilesDirectoriesEX\\EvenLines\\EvenLines.cs",
+              "RelativeDocumentMoniker": "EvenLines\\EvenLines.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\StreamsFilesDirectoriesEX\\EvenLines\\EvenLines.cs",
+              "RelativeToolTip": "EvenLines\\EvenLines.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:30:40.026Z"
             }
           ]
         }

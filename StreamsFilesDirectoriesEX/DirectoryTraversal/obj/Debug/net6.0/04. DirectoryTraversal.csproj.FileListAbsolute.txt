@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\bin\Debug\net6.0\04. DirectoryTraversal.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\bin\Debug\net6.0\04. DirectoryTraversal.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\bin\Debug\net6.0\04. DirectoryTraversal.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\bin\Debug\net6.0\04. DirectoryTraversal.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\bin\Debug\net6.0\04. DirectoryTraversal.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\obj\Debug\net6.0\04. DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\obj\Debug\net6.0\04. DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\obj\Debug\net6.0\04. DirectoryTraversal.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\obj\Debug\net6.0\04. DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\obj\Debug\net6.0\04. DirectoryTraversal.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\obj\Debug\net6.0\04. DirectoryTraversal.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\obj\Debug\net6.0\refint\04. DirectoryTraversal.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\obj\Debug\net6.0\04. DirectoryTraversal.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\obj\Debug\net6.0\04. DirectoryTraversal.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\DirectoryTraversal\obj\Debug\net6.0\ref\04. DirectoryTraversal.dll

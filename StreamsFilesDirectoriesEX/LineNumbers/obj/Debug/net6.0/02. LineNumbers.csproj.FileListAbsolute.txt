@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\bin\Debug\net6.0\02. LineNumbers.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\bin\Debug\net6.0\02. LineNumbers.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\bin\Debug\net6.0\02. LineNumbers.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\bin\Debug\net6.0\02. LineNumbers.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\bin\Debug\net6.0\02. LineNumbers.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\obj\Debug\net6.0\02. LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\obj\Debug\net6.0\02. LineNumbers.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\obj\Debug\net6.0\02. LineNumbers.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\obj\Debug\net6.0\02. LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\obj\Debug\net6.0\02. LineNumbers.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\obj\Debug\net6.0\02. LineNumbers.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\obj\Debug\net6.0\refint\02. LineNumbers.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\obj\Debug\net6.0\02. LineNumbers.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\obj\Debug\net6.0\02. LineNumbers.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\StreamsFilesDirectoriesEX\LineNumbers\obj\Debug\net6.0\ref\02. LineNumbers.dll
