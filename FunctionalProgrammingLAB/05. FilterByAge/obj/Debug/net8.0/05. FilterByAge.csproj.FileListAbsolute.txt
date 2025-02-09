@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\bin\Debug\net8.0\05. FilterByAge.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\bin\Debug\net8.0\05. FilterByAge.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\bin\Debug\net8.0\05. FilterByAge.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\bin\Debug\net8.0\05. FilterByAge.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\bin\Debug\net8.0\05. FilterByAge.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\obj\Debug\net8.0\05. FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\obj\Debug\net8.0\05. FilterByAge.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\obj\Debug\net8.0\05. FilterByAge.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\obj\Debug\net8.0\05. FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\obj\Debug\net8.0\05. FilterByAge.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\obj\Debug\net8.0\05. FilterByAge.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\obj\Debug\net8.0\refint\05. FilterByAge.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\obj\Debug\net8.0\05. FilterByAge.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\obj\Debug\net8.0\05. FilterByAge.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\05. FilterByAge\obj\Debug\net8.0\ref\05. FilterByAge.dll

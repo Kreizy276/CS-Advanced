@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\bin\Debug\net8.0\02. SumNumbers.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\bin\Debug\net8.0\02. SumNumbers.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\bin\Debug\net8.0\02. SumNumbers.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\bin\Debug\net8.0\02. SumNumbers.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\bin\Debug\net8.0\02. SumNumbers.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\obj\Debug\net8.0\02. SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\obj\Debug\net8.0\02. SumNumbers.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\obj\Debug\net8.0\02. SumNumbers.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\obj\Debug\net8.0\02. SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\obj\Debug\net8.0\02. SumNumbers.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\obj\Debug\net8.0\02. SumNumbers.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\obj\Debug\net8.0\refint\02. SumNumbers.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\obj\Debug\net8.0\02. SumNumbers.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\obj\Debug\net8.0\02. SumNumbers.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingLAB\02. SumNumbers\obj\Debug\net8.0\ref\02. SumNumbers.dll

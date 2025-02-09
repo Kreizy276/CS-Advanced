@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\FunctionalProgrammingLAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{971F8562-858B-481E-8B24-F75640906AB2}|05. FilterByAge\\05. FilterByAge.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\functionalprogramminglab\\05. filterbyage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971F8562-858B-481E-8B24-F75640906AB2}|05. FilterByAge\\05. FilterByAge.csproj|solutionrelative:05. filterbyage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77285C88-AA61-4A34-A92D-7591C0A67189}|04. AddVAT\\04. AddVAT.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\functionalprogramminglab\\04. addvat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77285C88-AA61-4A34-A92D-7591C0A67189}|04. AddVAT\\04. AddVAT.csproj|solutionrelative:04. addvat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BCC552-FA36-494B-9505-48625FC08F6B}|03. CountUppercaseWords\\03. CountUppercaseWords.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\functionalprogramminglab\\03. countuppercasewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BCC552-FA36-494B-9505-48625FC08F6B}|03. CountUppercaseWords\\03. CountUppercaseWords.csproj|solutionrelative:03. countuppercasewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8A3CA4-0DFE-42C6-994E-7F7359ABF675}|02. SumNumbers\\02. SumNumbers.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\functionalprogramminglab\\02. sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8A3CA4-0DFE-42C6-994E-7F7359ABF675}|02. SumNumbers\\02. SumNumbers.csproj|solutionrelative:02. sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75E7CE24-9A99-4A00-A9CA-378F189EA51E}|01. SortEvenNumbers\\01. SortEvenNumbers.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\functionalprogramminglab\\01. sortevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E7CE24-9A99-4A00-A9CA-378F189EA51E}|01. SortEvenNumbers\\01. SortEvenNumbers.csproj|solutionrelative:01. sortevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\FunctionalProgrammingLAB\\05. FilterByAge\\Program.cs",
+              "RelativeDocumentMoniker": "05. FilterByAge\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\FunctionalProgrammingLAB\\05. FilterByAge\\Program.cs",
+              "RelativeToolTip": "05. FilterByAge\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:33:40.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\FunctionalProgrammingLAB\\04. AddVAT\\Program.cs",
+              "RelativeDocumentMoniker": "04. AddVAT\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\FunctionalProgrammingLAB\\04. AddVAT\\Program.cs",
+              "RelativeToolTip": "04. AddVAT\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:27:43.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\FunctionalProgrammingLAB\\03. CountUppercaseWords\\Program.cs",
+              "RelativeDocumentMoniker": "03. CountUppercaseWords\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\FunctionalProgrammingLAB\\03. CountUppercaseWords\\Program.cs",
+              "RelativeToolTip": "03. CountUppercaseWords\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:21:15.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\FunctionalProgrammingLAB\\02. SumNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "02. SumNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\FunctionalProgrammingLAB\\02. SumNumbers\\Program.cs",
+              "RelativeToolTip": "02. SumNumbers\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:08:38.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\FunctionalProgrammingLAB\\01. SortEvenNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01. SortEvenNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\FunctionalProgrammingLAB\\01. SortEvenNumbers\\Program.cs",
+              "RelativeToolTip": "01. SortEvenNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:06:07.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
