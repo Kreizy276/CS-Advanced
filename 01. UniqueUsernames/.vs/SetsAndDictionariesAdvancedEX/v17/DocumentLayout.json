@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "06. Wardrobe\\Program.cs",
               "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\01. UniqueUsernames\\06. Wardrobe\\Program.cs",
               "RelativeToolTip": "06. Wardrobe\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T17:39:28.994Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "05. CountSymbols\\Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAA4wBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T17:36:36.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T17:36:36.786Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "04. EvenTimes\\Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAA4wBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T17:26:12.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T17:26:12.571Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "03. PeriodicTable\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T17:18:18.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T17:18:18.013Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "02. SetsOfElements\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAmwBYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T17:11:35.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T17:11:35.315Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "01. UniqueNames\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T17:03:40.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T17:03:40.185Z"
             }
           ]
         }
