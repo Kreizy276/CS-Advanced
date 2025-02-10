@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\bin\Debug\net8.0\CarExtension.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\bin\Debug\net8.0\CarExtension.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\bin\Debug\net8.0\CarExtension.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\bin\Debug\net8.0\CarExtension.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\bin\Debug\net8.0\CarExtension.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\obj\Debug\net8.0\CarExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\obj\Debug\net8.0\CarExtension.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\obj\Debug\net8.0\CarExtension.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\obj\Debug\net8.0\CarExtension.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\obj\Debug\net8.0\CarExtension.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\obj\Debug\net8.0\CarExtension.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\obj\Debug\net8.0\refint\CarExtension.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\obj\Debug\net8.0\CarExtension.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\obj\Debug\net8.0\CarExtension.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarExtension\obj\Debug\net8.0\ref\CarExtension.dll
