@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\bin\Debug\net8.0\08. ListOfPredicates.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\bin\Debug\net8.0\08. ListOfPredicates.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\bin\Debug\net8.0\08. ListOfPredicates.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\bin\Debug\net8.0\08. ListOfPredicates.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\bin\Debug\net8.0\08. ListOfPredicates.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\obj\Debug\net8.0\08. ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\obj\Debug\net8.0\08. ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\obj\Debug\net8.0\08. ListOfPredicates.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\obj\Debug\net8.0\08. ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\obj\Debug\net8.0\08. ListOfPredicates.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\obj\Debug\net8.0\08. ListOfPredicates.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\obj\Debug\net8.0\refint\08. ListOfPredicates.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\obj\Debug\net8.0\08. ListOfPredicates.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\obj\Debug\net8.0\08. ListOfPredicates.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\FunctionalProgrammingEX\08. ListOfPredicates\obj\Debug\net8.0\ref\08. ListOfPredicates.dll
