@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\bin\Debug\net8.0\RawData.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\bin\Debug\net8.0\RawData.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\bin\Debug\net8.0\RawData.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\bin\Debug\net8.0\RawData.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\bin\Debug\net8.0\RawData.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\obj\Debug\net8.0\RawData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\obj\Debug\net8.0\RawData.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\obj\Debug\net8.0\RawData.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\obj\Debug\net8.0\RawData.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\obj\Debug\net8.0\RawData.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\obj\Debug\net8.0\RawData.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\obj\Debug\net8.0\refint\RawData.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\obj\Debug\net8.0\RawData.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\obj\Debug\net8.0\RawData.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\RawData\obj\Debug\net8.0\ref\RawData.dll

@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\bin\Debug\net8.0\OpinionPoll.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\bin\Debug\net8.0\OpinionPoll.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\bin\Debug\net8.0\OpinionPoll.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\bin\Debug\net8.0\OpinionPoll.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\bin\Debug\net8.0\OpinionPoll.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\obj\Debug\net8.0\OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\obj\Debug\net8.0\OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\obj\Debug\net8.0\OpinionPoll.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\obj\Debug\net8.0\OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\obj\Debug\net8.0\OpinionPoll.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\obj\Debug\net8.0\OpinionPoll.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\obj\Debug\net8.0\refint\OpinionPoll.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\obj\Debug\net8.0\OpinionPoll.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\obj\Debug\net8.0\OpinionPoll.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\OpinionPoll\obj\Debug\net8.0\ref\OpinionPoll.dll

@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA1372F-AEA3-4736-82D7-F9DC162CCEEF}|PokemonTrainer\\PokemonTrainer.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\pokemontrainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA1372F-AEA3-4736-82D7-F9DC162CCEEF}|PokemonTrainer\\PokemonTrainer.csproj|solutionrelative:pokemontrainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA1372F-AEA3-4736-82D7-F9DC162CCEEF}|PokemonTrainer\\PokemonTrainer.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\pokemontrainer\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA1372F-AEA3-4736-82D7-F9DC162CCEEF}|PokemonTrainer\\PokemonTrainer.csproj|solutionrelative:pokemontrainer\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA1372F-AEA3-4736-82D7-F9DC162CCEEF}|PokemonTrainer\\PokemonTrainer.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\pokemontrainer\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA1372F-AEA3-4736-82D7-F9DC162CCEEF}|PokemonTrainer\\PokemonTrainer.csproj|solutionrelative:pokemontrainer\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9DF98-893D-47DA-BD5D-2082D105670B}|CarSalesman\\CarSalesman.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\carsalesman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD9DF98-893D-47DA-BD5D-2082D105670B}|CarSalesman\\CarSalesman.csproj|solutionrelative:carsalesman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9DF98-893D-47DA-BD5D-2082D105670B}|CarSalesman\\CarSalesman.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\carsalesman\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD9DF98-893D-47DA-BD5D-2082D105670B}|CarSalesman\\CarSalesman.csproj|solutionrelative:carsalesman\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9DF98-893D-47DA-BD5D-2082D105670B}|CarSalesman\\CarSalesman.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\carsalesman\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD9DF98-893D-47DA-BD5D-2082D105670B}|CarSalesman\\CarSalesman.csproj|solutionrelative:carsalesman\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF141CE-0739-4592-A825-08B0DC668BC9}|RawData\\RawData.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\rawdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF141CE-0739-4592-A825-08B0DC668BC9}|RawData\\RawData.csproj|solutionrelative:rawdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF141CE-0739-4592-A825-08B0DC668BC9}|RawData\\RawData.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\rawdata\\rawdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFF141CE-0739-4592-A825-08B0DC668BC9}|RawData\\RawData.csproj|solutionrelative:rawdata\\rawdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF141CE-0739-4592-A825-08B0DC668BC9}|RawData\\RawData.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\rawdata\\tires.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF141CE-0739-4592-A825-08B0DC668BC9}|RawData\\RawData.csproj|solutionrelative:rawdata\\tires.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF141CE-0739-4592-A825-08B0DC668BC9}|RawData\\RawData.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\rawdata\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF141CE-0739-4592-A825-08B0DC668BC9}|RawData\\RawData.csproj|solutionrelative:rawdata\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF141CE-0739-4592-A825-08B0DC668BC9}|RawData\\RawData.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\rawdata\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF141CE-0739-4592-A825-08B0DC668BC9}|RawData\\RawData.csproj|solutionrelative:rawdata\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF141CE-0739-4592-A825-08B0DC668BC9}|RawData\\RawData.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\rawdata\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF141CE-0739-4592-A825-08B0DC668BC9}|RawData\\RawData.csproj|solutionrelative:rawdata\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2801D8-DE2B-4F76-A9D2-A7D3190B78D8}|SpeedRacing\\SpeedRacing.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\speedracing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2801D8-DE2B-4F76-A9D2-A7D3190B78D8}|SpeedRacing\\SpeedRacing.csproj|solutionrelative:speedracing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2801D8-DE2B-4F76-A9D2-A7D3190B78D8}|SpeedRacing\\SpeedRacing.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\speedracing\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2801D8-DE2B-4F76-A9D2-A7D3190B78D8}|SpeedRacing\\SpeedRacing.csproj|solutionrelative:speedracing\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2801D8-DE2B-4F76-A9D2-A7D3190B78D8}|SpeedRacing\\SpeedRacing.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\speedracing\\speedracing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C2801D8-DE2B-4F76-A9D2-A7D3190B78D8}|SpeedRacing\\SpeedRacing.csproj|solutionrelative:speedracing\\speedracing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F0A36C-9ECA-43D9-A4B0-49F2DB3382A0}|OpinionPoll\\OpinionPoll.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\opinionpoll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F0A36C-9ECA-43D9-A4B0-49F2DB3382A0}|OpinionPoll\\OpinionPoll.csproj|solutionrelative:opinionpoll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F0A36C-9ECA-43D9-A4B0-49F2DB3382A0}|OpinionPoll\\OpinionPoll.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\opinionpoll\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F0A36C-9ECA-43D9-A4B0-49F2DB3382A0}|OpinionPoll\\OpinionPoll.csproj|solutionrelative:opinionpoll\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E7F196-7D13-429F-8A0B-FB7D7C7D5E96}|DefineAClassPerson\\DefineAClassPerson.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\defineaclassperson\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E7F196-7D13-429F-8A0B-FB7D7C7D5E96}|DefineAClassPerson\\DefineAClassPerson.csproj|solutionrelative:defineaclassperson\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E7F196-7D13-429F-8A0B-FB7D7C7D5E96}|DefineAClassPerson\\DefineAClassPerson.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\defineaclassperson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E7F196-7D13-429F-8A0B-FB7D7C7D5E96}|DefineAClassPerson\\DefineAClassPerson.csproj|solutionrelative:defineaclassperson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E7F196-7D13-429F-8A0B-FB7D7C7D5E96}|DefineAClassPerson\\DefineAClassPerson.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\defineaclassperson\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E7F196-7D13-429F-8A0B-FB7D7C7D5E96}|DefineAClassPerson\\DefineAClassPerson.csproj|solutionrelative:defineaclassperson\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E7F196-7D13-429F-8A0B-FB7D7C7D5E96}|DefineAClassPerson\\DefineAClassPerson.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\defineclassesex\\defineaclassperson\\defineaclassperson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B9E7F196-7D13-429F-8A0B-FB7D7C7D5E96}|DefineAClassPerson\\DefineAClassPerson.csproj|solutionrelative:defineaclassperson\\defineaclassperson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\PokemonTrainer\\Pokemon.cs",
+              "RelativeDocumentMoniker": "PokemonTrainer\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\PokemonTrainer\\Pokemon.cs",
+              "RelativeToolTip": "PokemonTrainer\\Pokemon.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:30:56.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\PokemonTrainer\\Trainer.cs",
+              "RelativeDocumentMoniker": "PokemonTrainer\\Trainer.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\PokemonTrainer\\Trainer.cs",
+              "RelativeToolTip": "PokemonTrainer\\Trainer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:30:49.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\PokemonTrainer\\Program.cs",
+              "RelativeDocumentMoniker": "PokemonTrainer\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\PokemonTrainer\\Program.cs",
+              "RelativeToolTip": "PokemonTrainer\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwDkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:29:28.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\CarSalesman\\Engine.cs",
+              "RelativeDocumentMoniker": "CarSalesman\\Engine.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\CarSalesman\\Engine.cs",
+              "RelativeToolTip": "CarSalesman\\Engine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:41:44.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\CarSalesman\\Car.cs",
+              "RelativeDocumentMoniker": "CarSalesman\\Car.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\CarSalesman\\Car.cs",
+              "RelativeToolTip": "CarSalesman\\Car.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:41:30.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\CarSalesman\\Program.cs",
+              "RelativeDocumentMoniker": "CarSalesman\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\CarSalesman\\Program.cs",
+              "RelativeToolTip": "CarSalesman\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:40:18.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tires.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\RawData\\Tires.cs",
+              "RelativeDocumentMoniker": "RawData\\Tires.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\RawData\\Tires.cs",
+              "RelativeToolTip": "RawData\\Tires.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:53:41.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\RawData\\Cargo.cs",
+              "RelativeDocumentMoniker": "RawData\\Cargo.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\RawData\\Cargo.cs",
+              "RelativeToolTip": "RawData\\Cargo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:53:35.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\RawData\\Engine.cs",
+              "RelativeDocumentMoniker": "RawData\\Engine.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\RawData\\Engine.cs",
+              "RelativeToolTip": "RawData\\Engine.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:53:29.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\RawData\\Car.cs",
+              "RelativeDocumentMoniker": "RawData\\Car.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\RawData\\Car.cs",
+              "RelativeToolTip": "RawData\\Car.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:53:24.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RawData.csproj",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\RawData\\RawData.csproj",
+              "RelativeDocumentMoniker": "RawData\\RawData.csproj",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\RawData\\RawData.csproj",
+              "RelativeToolTip": "RawData\\RawData.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T17:52:42.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\RawData\\Program.cs",
+              "RelativeDocumentMoniker": "RawData\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\RawData\\Program.cs",
+              "RelativeToolTip": "RawData\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:52:37.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SpeedRacing.csproj",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\SpeedRacing\\SpeedRacing.csproj",
+              "RelativeDocumentMoniker": "SpeedRacing\\SpeedRacing.csproj",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\SpeedRacing\\SpeedRacing.csproj",
+              "RelativeToolTip": "SpeedRacing\\SpeedRacing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T17:18:16.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\SpeedRacing\\Car.cs",
+              "RelativeDocumentMoniker": "SpeedRacing\\Car.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\SpeedRacing\\Car.cs",
+              "RelativeToolTip": "SpeedRacing\\Car.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAEwCEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:17:37.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\SpeedRacing\\Program.cs",
+              "RelativeDocumentMoniker": "SpeedRacing\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\SpeedRacing\\Program.cs",
+              "RelativeToolTip": "SpeedRacing\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAEwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:17:13.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\OpinionPoll\\Person.cs",
+              "RelativeDocumentMoniker": "OpinionPoll\\Person.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\OpinionPoll\\Person.cs",
+              "RelativeToolTip": "OpinionPoll\\Person.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:10:21.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\OpinionPoll\\Program.cs",
+              "RelativeDocumentMoniker": "OpinionPoll\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\OpinionPoll\\Program.cs",
+              "RelativeToolTip": "OpinionPoll\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:09:40.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Family.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\DefineAClassPerson\\Family.cs",
+              "RelativeDocumentMoniker": "DefineAClassPerson\\Family.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\DefineAClassPerson\\Family.cs",
+              "RelativeToolTip": "DefineAClassPerson\\Family.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:18:59.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DefineAClassPerson.csproj",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\DefineAClassPerson\\DefineAClassPerson.csproj",
+              "RelativeDocumentMoniker": "DefineAClassPerson\\DefineAClassPerson.csproj",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\DefineAClassPerson\\DefineAClassPerson.csproj",
+              "RelativeToolTip": "DefineAClassPerson\\DefineAClassPerson.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T13:09:29.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\DefineAClassPerson\\Person.cs",
+              "RelativeDocumentMoniker": "DefineAClassPerson\\Person.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\DefineAClassPerson\\Person.cs",
+              "RelativeToolTip": "DefineAClassPerson\\Person.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:05:09.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\DefineAClassPerson\\Program.cs",
+              "RelativeDocumentMoniker": "DefineAClassPerson\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefineClassesEX\\DefineAClassPerson\\Program.cs",
+              "RelativeToolTip": "DefineAClassPerson\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:04:07.75Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

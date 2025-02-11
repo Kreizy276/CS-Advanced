@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\bin\Debug\net8.0\CarSalesman.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\bin\Debug\net8.0\CarSalesman.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\bin\Debug\net8.0\CarSalesman.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\bin\Debug\net8.0\CarSalesman.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\bin\Debug\net8.0\CarSalesman.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\obj\Debug\net8.0\CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\obj\Debug\net8.0\CarSalesman.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\obj\Debug\net8.0\CarSalesman.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\obj\Debug\net8.0\CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\obj\Debug\net8.0\CarSalesman.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\obj\Debug\net8.0\CarSalesman.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\obj\Debug\net8.0\refint\CarSalesman.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\obj\Debug\net8.0\CarSalesman.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\obj\Debug\net8.0\CarSalesman.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\CarSalesman\obj\Debug\net8.0\ref\CarSalesman.dll

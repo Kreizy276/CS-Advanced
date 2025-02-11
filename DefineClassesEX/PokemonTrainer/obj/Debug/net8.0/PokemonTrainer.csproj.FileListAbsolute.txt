@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\bin\Debug\net8.0\PokemonTrainer.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\bin\Debug\net8.0\PokemonTrainer.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\bin\Debug\net8.0\PokemonTrainer.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\bin\Debug\net8.0\PokemonTrainer.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\bin\Debug\net8.0\PokemonTrainer.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\obj\Debug\net8.0\refint\PokemonTrainer.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\obj\Debug\net8.0\PokemonTrainer.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefineClassesEX\PokemonTrainer\obj\Debug\net8.0\ref\PokemonTrainer.dll
