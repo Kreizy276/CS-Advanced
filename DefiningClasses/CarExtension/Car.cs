@@ -13,7 +13,7 @@ namespace CarManufacturer
         private string model;
         private int year;
         private double fuelQuantity;
-        private double fuelConsuption;
+        private double fuelConsumption;
 
         public string Make
         {
@@ -36,17 +36,19 @@ namespace CarManufacturer
             get { return fuelQuantity; }
             set { fuelQuantity = value; }
         }
-        public double FuelConsuption
+        public double FuelConsumption
         {
-            get { return fuelConsuption; }
-            set { fuelConsuption = value; }
+            get { return fuelConsumption; }
+            set { fuelConsumption = value; }
         }
 
         public void Drive(double distance)
         {
-            if(FuelQuantity - distance * FuelConsuption/100 > 0)
+            double neededFuel = distance * FuelConsumption / 100;
+
+            if (FuelQuantity >= neededFuel)
             {
-                FuelQuantity -= distance * FuelConsuption/100;
+                FuelQuantity -= neededFuel;
             }
             else
             {

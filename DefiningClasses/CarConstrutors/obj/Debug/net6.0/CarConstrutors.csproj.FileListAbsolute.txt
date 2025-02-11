@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\bin\Debug\net6.0\CarConstrutors.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\bin\Debug\net6.0\CarConstrutors.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\bin\Debug\net6.0\CarConstrutors.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\bin\Debug\net6.0\CarConstrutors.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\bin\Debug\net6.0\CarConstrutors.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\obj\Debug\net6.0\CarConstrutors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\obj\Debug\net6.0\CarConstrutors.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\obj\Debug\net6.0\CarConstrutors.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\obj\Debug\net6.0\CarConstrutors.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\obj\Debug\net6.0\CarConstrutors.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\obj\Debug\net6.0\CarConstrutors.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\obj\Debug\net6.0\refint\CarConstrutors.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\obj\Debug\net6.0\CarConstrutors.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\obj\Debug\net6.0\CarConstrutors.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\DefiningClasses\CarConstrutors\obj\Debug\net6.0\ref\CarConstrutors.dll

@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B38B3C55-26F8-448C-A3E1-A4E48E376300}|CarExtension\\CarExtension.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\definingclasses\\carextension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B38B3C55-26F8-448C-A3E1-A4E48E376300}|CarExtension\\CarExtension.csproj|solutionrelative:carextension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEA16BCF-4567-41D8-8A41-9B3EE07E19F3}|CarEngineAndTires\\CarEngineAndTires.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\definingclasses\\carengineandtires\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA16BCF-4567-41D8-8A41-9B3EE07E19F3}|CarEngineAndTires\\CarEngineAndTires.csproj|solutionrelative:carengineandtires\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B38B3C55-26F8-448C-A3E1-A4E48E376300}|CarExtension\\CarExtension.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\definingclasses\\carextension\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B38B3C55-26F8-448C-A3E1-A4E48E376300}|CarExtension\\CarExtension.csproj|solutionrelative:carextension\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEA16BCF-4567-41D8-8A41-9B3EE07E19F3}|CarEngineAndTires\\CarEngineAndTires.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\definingclasses\\carengineandtires\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA16BCF-4567-41D8-8A41-9B3EE07E19F3}|CarEngineAndTires\\CarEngineAndTires.csproj|solutionrelative:carengineandtires\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96594602-898A-43A7-B576-362DDA605B2C}|CarManufacturer\\CarManufacturer.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\definingclasses\\carmanufacturer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96594602-898A-43A7-B576-362DDA605B2C}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEA16BCF-4567-41D8-8A41-9B3EE07E19F3}|CarEngineAndTires\\CarEngineAndTires.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\definingclasses\\carengineandtires\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA16BCF-4567-41D8-8A41-9B3EE07E19F3}|CarEngineAndTires\\CarEngineAndTires.csproj|solutionrelative:carengineandtires\\tire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96594602-898A-43A7-B576-362DDA605B2C}|CarManufacturer\\CarManufacturer.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\definingclasses\\carmanufacturer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96594602-898A-43A7-B576-362DDA605B2C}|CarManufacturer\\CarManufacturer.csproj|solutionrelative:carmanufacturer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEA16BCF-4567-41D8-8A41-9B3EE07E19F3}|CarEngineAndTires\\CarEngineAndTires.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\definingclasses\\carengineandtires\\carengineandtires.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEA16BCF-4567-41D8-8A41-9B3EE07E19F3}|CarEngineAndTires\\CarEngineAndTires.csproj|solutionrelative:carengineandtires\\carengineandtires.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA16BCF-4567-41D8-8A41-9B3EE07E19F3}|CarEngineAndTires\\CarEngineAndTires.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\definingclasses\\carengineandtires\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA16BCF-4567-41D8-8A41-9B3EE07E19F3}|CarEngineAndTires\\CarEngineAndTires.csproj|solutionrelative:carengineandtires\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C993D4-9666-4EA6-9228-82E30D041A09}|CarConstrutors\\CarConstrutors.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\definingclasses\\carconstrutors\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C993D4-9666-4EA6-9228-82E30D041A09}|CarConstrutors\\CarConstrutors.csproj|solutionrelative:carconstrutors\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C993D4-9666-4EA6-9228-82E30D041A09}|CarConstrutors\\CarConstrutors.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\definingclasses\\carconstrutors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C993D4-9666-4EA6-9228-82E30D041A09}|CarConstrutors\\CarConstrutors.csproj|solutionrelative:carconstrutors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,55 +46,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarExtension\\Car.cs",
-              "RelativeDocumentMoniker": "CarExtension\\Car.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarExtension\\Car.cs",
-              "RelativeToolTip": "CarExtension\\Car.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAcwDAAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T16:42:57.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarExtension\\Program.cs",
-              "RelativeDocumentMoniker": "CarExtension\\Program.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarExtension\\Program.cs",
-              "RelativeToolTip": "CarExtension\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T16:41:57.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarManufacturer\\Car.cs",
-              "RelativeDocumentMoniker": "CarManufacturer\\Car.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarManufacturer\\Car.cs",
-              "RelativeToolTip": "CarManufacturer\\Car.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Title": "Tire.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarEngineAndTires\\Tire.cs",
+              "RelativeDocumentMoniker": "CarEngineAndTires\\Tire.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarEngineAndTires\\Tire.cs",
+              "RelativeToolTip": "CarEngineAndTires\\Tire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T16:22:25.125Z",
+              "WhenOpened": "2025-02-11T12:27:49.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarManufacturer\\Program.cs",
-              "RelativeDocumentMoniker": "CarManufacturer\\Program.cs",
-              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarManufacturer\\Program.cs",
-              "RelativeToolTip": "CarManufacturer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T16:22:02.832Z",
+              "Title": "CarEngineAndTires.csproj",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarEngineAndTires\\CarEngineAndTires.csproj",
+              "RelativeDocumentMoniker": "CarEngineAndTires\\CarEngineAndTires.csproj",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarEngineAndTires\\CarEngineAndTires.csproj",
+              "RelativeToolTip": "CarEngineAndTires\\CarEngineAndTires.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T12:23:49.406Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarEngineAndTires\\Engine.cs",
+              "RelativeDocumentMoniker": "CarEngineAndTires\\Engine.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarEngineAndTires\\Engine.cs",
+              "RelativeToolTip": "CarEngineAndTires\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:23:19.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarEngineAndTires\\Car.cs",
+              "RelativeDocumentMoniker": "CarEngineAndTires\\Car.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarEngineAndTires\\Car.cs",
+              "RelativeToolTip": "CarEngineAndTires\\Car.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:23:04.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarEngineAndTires\\Program.cs",
+              "RelativeDocumentMoniker": "CarEngineAndTires\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarEngineAndTires\\Program.cs",
+              "RelativeToolTip": "CarEngineAndTires\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:22:52.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarConstrutors\\Car.cs",
+              "RelativeDocumentMoniker": "CarConstrutors\\Car.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarConstrutors\\Car.cs",
+              "RelativeToolTip": "CarConstrutors\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:08:55.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarConstrutors\\Program.cs",
+              "RelativeDocumentMoniker": "CarConstrutors\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\DefiningClasses\\CarConstrutors\\Program.cs",
+              "RelativeToolTip": "CarConstrutors\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:07:50.81Z"
             }
           ]
         }
