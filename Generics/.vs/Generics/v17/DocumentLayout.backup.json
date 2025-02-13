@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B3843A-F698-403F-B90B-2BCCCB06AA17}|GenericScale\\GenericScale.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\generics\\genericscale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B3843A-F698-403F-B90B-2BCCCB06AA17}|GenericScale\\GenericScale.csproj|solutionrelative:genericscale\\equalityscale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B3843A-F698-403F-B90B-2BCCCB06AA17}|GenericScale\\GenericScale.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\generics\\genericscale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9B3843A-F698-403F-B90B-2BCCCB06AA17}|GenericScale\\GenericScale.csproj|solutionrelative:genericscale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9B3843A-F698-403F-B90B-2BCCCB06AA17}|GenericScale\\GenericScale.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\generics\\genericscale\\genericscale.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9B3843A-F698-403F-B90B-2BCCCB06AA17}|GenericScale\\GenericScale.csproj|solutionrelative:genericscale\\genericscale.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA12613-EA6A-4D45-9761-61A7E56168E3}|GenericArrayCreator\\GenericArrayCreator.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\generics\\genericarraycreator\\genericarraycreator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBA12613-EA6A-4D45-9761-61A7E56168E3}|GenericArrayCreator\\GenericArrayCreator.csproj|solutionrelative:genericarraycreator\\genericarraycreator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA12613-EA6A-4D45-9761-61A7E56168E3}|GenericArrayCreator\\GenericArrayCreator.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\generics\\genericarraycreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA12613-EA6A-4D45-9761-61A7E56168E3}|GenericArrayCreator\\GenericArrayCreator.csproj|solutionrelative:genericarraycreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA12613-EA6A-4D45-9761-61A7E56168E3}|GenericArrayCreator\\GenericArrayCreator.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\generics\\genericarraycreator\\arraycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA12613-EA6A-4D45-9761-61A7E56168E3}|GenericArrayCreator\\GenericArrayCreator.csproj|solutionrelative:genericarraycreator\\arraycreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F237D76-BF46-42AE-943A-6144AC451EC9}|BoxOfT\\BoxOfT.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\generics\\boxoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F237D76-BF46-42AE-943A-6144AC451EC9}|BoxOfT\\BoxOfT.csproj|solutionrelative:boxoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F237D76-BF46-42AE-943A-6144AC451EC9}|BoxOfT\\BoxOfT.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\generics\\boxoft\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F237D76-BF46-42AE-943A-6144AC451EC9}|BoxOfT\\BoxOfT.csproj|solutionrelative:boxoft\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericScale",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\GenericScale\\GenericScale.csproj",
+              "RelativeDocumentMoniker": "GenericScale\\GenericScale.csproj",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\GenericScale\\GenericScale.csproj",
+              "RelativeToolTip": "GenericScale\\GenericScale.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T15:41:47.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EqualityScale.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\GenericScale\\EqualityScale.cs",
+              "RelativeDocumentMoniker": "GenericScale\\EqualityScale.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\GenericScale\\EqualityScale.cs",
+              "RelativeToolTip": "GenericScale\\EqualityScale.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:37:50.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\GenericScale\\Program.cs",
+              "RelativeDocumentMoniker": "GenericScale\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\GenericScale\\Program.cs",
+              "RelativeToolTip": "GenericScale\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:31:32.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericArrayCreator",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\GenericArrayCreator\\GenericArrayCreator.csproj",
+              "RelativeDocumentMoniker": "GenericArrayCreator\\GenericArrayCreator.csproj",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\GenericArrayCreator\\GenericArrayCreator.csproj",
+              "RelativeToolTip": "GenericArrayCreator\\GenericArrayCreator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T14:30:19.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\GenericArrayCreator\\Program.cs",
+              "RelativeDocumentMoniker": "GenericArrayCreator\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\GenericArrayCreator\\Program.cs",
+              "RelativeToolTip": "GenericArrayCreator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:28:21.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArrayCreator.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\GenericArrayCreator\\ArrayCreator.cs",
+              "RelativeDocumentMoniker": "GenericArrayCreator\\ArrayCreator.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\GenericArrayCreator\\ArrayCreator.cs",
+              "RelativeToolTip": "GenericArrayCreator\\ArrayCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:28:14.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\BoxOfT\\Box.cs",
+              "RelativeDocumentMoniker": "BoxOfT\\Box.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\BoxOfT\\Box.cs",
+              "RelativeToolTip": "BoxOfT\\Box.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:45:57.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\BoxOfT\\Program.cs",
+              "RelativeDocumentMoniker": "BoxOfT\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\Generics\\BoxOfT\\Program.cs",
+              "RelativeToolTip": "BoxOfT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:45:07.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
