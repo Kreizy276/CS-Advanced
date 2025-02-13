@@ -1,10 +1,21 @@
-﻿namespace GenericBoxOfString
+﻿namespace BoxOfStrings
 {
-    internal class Program
+    public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int n = int.Parse(Console.ReadLine());
+
+            for(int i = 0; i < n; i++)
+            {
+                int number = int.Parse(Console.ReadLine());
+                Box<int> box = new(number);
+                Console.WriteLine(box.ToString());
+
+                //string word = Console.ReadLine();
+                //Box<string> box = new(word);
+                //Console.WriteLine(box.ToString());
+            }
         }
     }
 }

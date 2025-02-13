@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UlMjlsZR82Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\GenericsEX\\Threeuple\\Threeuple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krisb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\krisb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\krisb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\krisb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

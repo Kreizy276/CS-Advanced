@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\bin\Debug\net6.0\GenericBoxOfString.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\obj\Debug\net6.0\refint\GenericBoxOfString.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\obj\Debug\net6.0\GenericBoxOfString.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\GenericBoxOfString\obj\Debug\net6.0\ref\GenericBoxOfString.dll

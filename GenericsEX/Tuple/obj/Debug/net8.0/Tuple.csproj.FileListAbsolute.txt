@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\obj\Debug\net8.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\obj\Debug\net8.0\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\obj\Debug\net8.0\Tuple.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\bin\Debug\net8.0\Tuple.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\bin\Debug\net8.0\Tuple.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\bin\Debug\net8.0\Tuple.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\bin\Debug\net8.0\Tuple.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\bin\Debug\net8.0\Tuple.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\obj\Debug\net8.0\Tuple.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\obj\Debug\net8.0\refint\Tuple.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\obj\Debug\net8.0\Tuple.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\obj\Debug\net8.0\Tuple.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\GenericsEX\Tuple\obj\Debug\net8.0\ref\Tuple.dll
