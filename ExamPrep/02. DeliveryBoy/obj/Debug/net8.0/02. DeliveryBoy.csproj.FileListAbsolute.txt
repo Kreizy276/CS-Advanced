@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\bin\Debug\net8.0\02. DeliveryBoy.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\bin\Debug\net8.0\02. DeliveryBoy.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\bin\Debug\net8.0\02. DeliveryBoy.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\bin\Debug\net8.0\02. DeliveryBoy.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\bin\Debug\net8.0\02. DeliveryBoy.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\obj\Debug\net8.0\02. DeliveryBoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\obj\Debug\net8.0\02. DeliveryBoy.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\obj\Debug\net8.0\02. DeliveryBoy.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\obj\Debug\net8.0\02. DeliveryBoy.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\obj\Debug\net8.0\02. DeliveryBoy.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\obj\Debug\net8.0\02. DeliveryBoy.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\obj\Debug\net8.0\refint\02. DeliveryBoy.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\obj\Debug\net8.0\02. DeliveryBoy.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\obj\Debug\net8.0\02. DeliveryBoy.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\ExamPrep\02. DeliveryBoy\obj\Debug\net8.0\ref\02. DeliveryBoy.dll

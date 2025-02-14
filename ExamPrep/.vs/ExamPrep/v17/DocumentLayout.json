@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\ExamPrep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\krisb\\AppData\\Local\\Temp\\Rar$DRa270008.30406.rartemp\\NewsFeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\krisb\\AppData\\Local\\Temp\\Rar$DRa270008.30406.rartemp\\Article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6CECF7-501A-4DAD-A20C-61D7BA072A4F}|02. DeliveryBoy\\02. DeliveryBoy.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\examprep\\02. deliveryboy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6CECF7-501A-4DAD-A20C-61D7BA072A4F}|02. DeliveryBoy\\02. DeliveryBoy.csproj|solutionrelative:02. deliveryboy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCBF95EC-F52F-4E2A-BAE2-E97905BFEB6A}|01. RubberDuckDebuggers\\01. RubberDuckDebuggers.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\examprep\\01. rubberduckdebuggers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCBF95EC-F52F-4E2A-BAE2-E97905BFEB6A}|01. RubberDuckDebuggers\\01. RubberDuckDebuggers.csproj|solutionrelative:01. rubberduckdebuggers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsFeed.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\AppData\\Local\\Temp\\Rar$DRa270008.30406.rartemp\\NewsFeed.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa270008.30406.rartemp\\NewsFeed.cs",
+              "ToolTip": "C:\\Users\\krisb\\AppData\\Local\\Temp\\Rar$DRa270008.30406.rartemp\\NewsFeed.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa270008.30406.rartemp\\NewsFeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:23:15.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\AppData\\Local\\Temp\\Rar$DRa270008.30406.rartemp\\Article.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa270008.30406.rartemp\\Article.cs",
+              "ToolTip": "C:\\Users\\krisb\\AppData\\Local\\Temp\\Rar$DRa270008.30406.rartemp\\Article.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa270008.30406.rartemp\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:23:14.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\ExamPrep\\02. DeliveryBoy\\Program.cs",
+              "RelativeDocumentMoniker": "02. DeliveryBoy\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\ExamPrep\\02. DeliveryBoy\\Program.cs",
+              "RelativeToolTip": "02. DeliveryBoy\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAcwFsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:21:21.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\ExamPrep\\01. RubberDuckDebuggers\\Program.cs",
+              "RelativeDocumentMoniker": "01. RubberDuckDebuggers\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\ExamPrep\\01. RubberDuckDebuggers\\Program.cs",
+              "RelativeToolTip": "01. RubberDuckDebuggers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:24:42.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
