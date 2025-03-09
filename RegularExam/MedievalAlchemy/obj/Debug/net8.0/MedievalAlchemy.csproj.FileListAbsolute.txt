@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\bin\Debug\net8.0\MedievalAlchemy.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\bin\Debug\net8.0\MedievalAlchemy.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\bin\Debug\net8.0\MedievalAlchemy.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\bin\Debug\net8.0\MedievalAlchemy.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\bin\Debug\net8.0\MedievalAlchemy.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\obj\Debug\net8.0\MedievalAlchemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\obj\Debug\net8.0\MedievalAlchemy.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\obj\Debug\net8.0\MedievalAlchemy.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\obj\Debug\net8.0\MedievalAlchemy.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\obj\Debug\net8.0\MedievalAlchemy.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\obj\Debug\net8.0\MedievalAlchemy.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\obj\Debug\net8.0\refint\MedievalAlchemy.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\obj\Debug\net8.0\MedievalAlchemy.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\obj\Debug\net8.0\MedievalAlchemy.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\MedievalAlchemy\obj\Debug\net8.0\ref\MedievalAlchemy.dll

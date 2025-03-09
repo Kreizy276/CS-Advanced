@@ -1,0 +1,15 @@
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\bin\Debug\net8.0\RushHour.exe
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\bin\Debug\net8.0\RushHour.deps.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\bin\Debug\net8.0\RushHour.runtimeconfig.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\bin\Debug\net8.0\RushHour.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\bin\Debug\net8.0\RushHour.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\obj\Debug\net8.0\RushHour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\obj\Debug\net8.0\RushHour.AssemblyInfoInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\obj\Debug\net8.0\RushHour.AssemblyInfo.cs
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\obj\Debug\net8.0\RushHour.csproj.CoreCompileInputs.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\obj\Debug\net8.0\RushHour.sourcelink.json
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\obj\Debug\net8.0\RushHour.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\obj\Debug\net8.0\refint\RushHour.dll
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\obj\Debug\net8.0\RushHour.pdb
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\obj\Debug\net8.0\RushHour.genruntimeconfig.cache
+C:\Users\krisb\Desktop\exercises\CS-Advanced\RegularExam\RushHour\obj\Debug\net8.0\ref\RushHour.dll

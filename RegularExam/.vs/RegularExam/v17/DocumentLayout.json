@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\RegularExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D042AB4-FA70-4CEA-93B5-EBCD5B8B8925}|MedievalAlchemy\\MedievalAlchemy.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\regularexam\\medievalalchemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D042AB4-FA70-4CEA-93B5-EBCD5B8B8925}|MedievalAlchemy\\MedievalAlchemy.csproj|solutionrelative:medievalalchemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D9460D-DC7F-4795-ACA6-3D827002A11E}|RushHour\\RushHour.csproj|c:\\users\\krisb\\desktop\\exercises\\cs-advanced\\regularexam\\rushhour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D9460D-DC7F-4795-ACA6-3D827002A11E}|RushHour\\RushHour.csproj|solutionrelative:rushhour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\RegularExam\\RushHour\\Program.cs",
+              "RelativeDocumentMoniker": "RushHour\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\RegularExam\\RushHour\\Program.cs",
+              "RelativeToolTip": "RushHour\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T08:14:52.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\RegularExam\\MedievalAlchemy\\Program.cs",
+              "RelativeDocumentMoniker": "MedievalAlchemy\\Program.cs",
+              "ToolTip": "C:\\Users\\krisb\\Desktop\\exercises\\CS-Advanced\\RegularExam\\MedievalAlchemy\\Program.cs",
+              "RelativeToolTip": "MedievalAlchemy\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T07:04:23.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
